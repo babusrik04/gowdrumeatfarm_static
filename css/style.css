@@ -1,0 +1,155 @@
+body {
+  font-family: "Times New Roman", Georgia, Serif !important;
+  }
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333333;
+}
+.imgbanner {
+  width: 100%;
+  height: auto;
+}
+.bannerimg{
+  
+  width: 70% !important;
+    justify-content: center;
+    margin: auto;
+}
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: white;
+}
+.aboutcenter {
+    margin: auto;
+    padding: 10px;
+    font-size: 1.2em;
+}
+.abouttext{
+    color: blue;
+    font-family: cursive;
+    font-size: 2.3em;
+}
+.aboutmeat{
+  color: red;
+    font-family: cursive;
+}
+ul{
+  background-color:#bb6e6eb5 !important;
+  font-size:1.3em;
+}
+.itemborder{
+  padding: 10px;
+  width: 200px;
+  height: 356px;
+  margin-bottom: 88px;
+  
+}
+.itemimage{  
+  width: 100%;
+  height: 240px;
+  border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    /*filter: drop-shadow(5px -8px 5px rgb(38 57 77));
+    rgb(21 57 77) 0px -11px 22px -20px;
+    box-shadow:rgb(21 57 77) 3px 1px 42px -10px;*/
+  }
+.itemtext{
+  padding: 20px;
+  width: 100%;
+  height: 144px;
+  color: #4a4a4a;
+  font-family: Lato!important;
+  background-color:white;
+  border-bottom-right-radius: 25px;
+  border-bottom-left-radius: 25px;
+  color:#070707;
+  /*box-shadow: rgb(38 57 77) 0px 13px 15px -20px;*/
+}
+.itemname{
+  font-size: 19px;
+  font-weight: 600;
+
+}
+.itemdetail{
+    font-family: 'Source Sans Pro';
+    font-size: 14px;
+    line-height: 1.2;
+    white-space: nowrap;
+    margin-bottom: 10px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.itemwt{
+  font-weight: bold;
+}
+.itemmrp{
+  font-weight: bold;
+  color: red;
+  font-size: 22px;
+}
+.logoColor {
+    /* color: rgba(195,35,71,255); */
+}
+.headerfootercolor {
+    background-color: #e2dcdc66!important;
+}
+.onlyborder{
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.58) 0px 10px 20px, rgba(229, 13, 13, 0.21) 0px 6px 18px;
+}
+.maplocation{
+  
+  margin-top: 3%;
+}
+
+.footer_head{
+  font-size: 28px;
+  font-weight: bold;
+}
+footer img{
+  width: 20px;
+  display: inline-block;
+  vertical-align: top;
+  padding-top: 2px;
+}
+.aboutheader{
+    margin: auto;
+    width: 12%;
+    font-size: 38px;
+    
+    padding: 0px;
+}
+.bodycontactus{
+    margin-top: 1%;
+    margin-bottom: 1%;
+}
+#menu{
+  margin-bottom:1%;
+}
